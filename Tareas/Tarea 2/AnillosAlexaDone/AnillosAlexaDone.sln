@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36429.23 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnillosAlexaDone", "AnillosAlexaDone\AnillosAlexaDone.csproj", "{4EB939DD-B708-45F8-9765-47A257D7FC95}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexaAnillosDone", "AlexaAnillosDone\AlexaAnillosDone.csproj", "{3B906D1D-58A4-498E-A072-403F6155A4F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4EB939DD-B708-45F8-9765-47A257D7FC95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4EB939DD-B708-45F8-9765-47A257D7FC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4EB939DD-B708-45F8-9765-47A257D7FC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4EB939DD-B708-45F8-9765-47A257D7FC95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B906D1D-58A4-498E-A072-403F6155A4F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B906D1D-58A4-498E-A072-403F6155A4F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B906D1D-58A4-498E-A072-403F6155A4F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B906D1D-58A4-498E-A072-403F6155A4F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
